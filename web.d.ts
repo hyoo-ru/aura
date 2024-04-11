@@ -964,17 +964,17 @@ declare namespace $ {
 
 declare namespace $ {
 
-	type $mol_vector_2d__O5A910AO = $mol_type_enforce<
+	type $mol_vector_2d__MTDN3EAU = $mol_type_enforce<
 		[ number, number ]
 		,
 		ConstructorParameters< typeof $mol_vector_2d<number> >
 	>
-	type $mol_vector_2d__17XU5MCC = $mol_type_enforce<
+	type $mol_vector_2d__8X1H6TLU = $mol_type_enforce<
 		[ number, number ]
 		,
 		ConstructorParameters< typeof $mol_vector_2d<number> >
 	>
-	type $mol_vector_2d__0OO2SG35 = $mol_type_enforce<
+	type $mol_vector_2d__9SQHDFNK = $mol_type_enforce<
 		[ number, number ]
 		,
 		ConstructorParameters< typeof $mol_vector_2d<number> >
@@ -1126,22 +1126,22 @@ declare namespace $ {
 
 declare namespace $ {
 
-	type $hyoo_aura_video__uri__DH9DSA45 = $mol_type_enforce<
+	type $hyoo_aura_video__uri__JB5F32J5 = $mol_type_enforce<
 		ReturnType< $hyoo_aura['video_uri'] >
 		,
 		ReturnType< $hyoo_aura_video['uri'] >
 	>
-	type $hyoo_aura_video__drop__340FQA0R = $mol_type_enforce<
+	type $hyoo_aura_video__drop__ODVLPS3E = $mol_type_enforce<
 		ReturnType< $hyoo_aura['shape_drop'] >
 		,
 		ReturnType< $hyoo_aura_video['drop'] >
 	>
-	type $mol_stack__sub__XCMMIRWA = $mol_type_enforce<
+	type $mol_stack__sub__69BS69NX = $mol_type_enforce<
 		ReturnType< $hyoo_aura['shapes'] >
 		,
 		ReturnType< $mol_stack['sub'] >
 	>
-	type $mol_view__sub__SK3K1E9X = $mol_type_enforce<
+	type $mol_view__sub__CYOABOYR = $mol_type_enforce<
 		readonly(any)[]
 		,
 		ReturnType< $mol_view['sub'] >
@@ -1157,37 +1157,37 @@ declare namespace $ {
 		Hint( ): $mol_view
 	}
 	
-	type $hyoo_aura_video_output__uri__LAKHURP3 = $mol_type_enforce<
+	type $hyoo_aura_video_output__uri__IBFPPG2V = $mol_type_enforce<
 		ReturnType< $hyoo_aura_video['uri'] >
 		,
 		ReturnType< $hyoo_aura_video_output['uri'] >
 	>
-	type $hyoo_aura_video_output__transform__3VCIJLUK = $mol_type_enforce<
+	type $hyoo_aura_video_output__transform__MSNJGXL7 = $mol_type_enforce<
 		ReturnType< $hyoo_aura_video['transform'] >
 		,
 		ReturnType< $hyoo_aura_video_output['transform'] >
 	>
-	type $hyoo_aura_video_output__aspect__U1VXP0LX = $mol_type_enforce<
+	type $hyoo_aura_video_output__aspect__N86MKTGM = $mol_type_enforce<
 		ReturnType< $hyoo_aura_video['aspect'] >
 		,
 		ReturnType< $hyoo_aura_video_output['aspect'] >
 	>
-	type $mol_vector_2d__35RD1ZOF = $mol_type_enforce<
+	type $mol_vector_2d__RPBAR4SZ = $mol_type_enforce<
 		[ number, number ]
 		,
 		ConstructorParameters< typeof $mol_vector_2d<number> >
 	>
-	type $mol_touch__allow_draw__ZDK2U82A = $mol_type_enforce<
+	type $mol_touch__allow_draw__ZILJHHUE = $mol_type_enforce<
 		boolean
 		,
 		ReturnType< $mol_touch['allow_draw'] >
 	>
-	type $mol_touch__zoom__G2ZZ9J1B = $mol_type_enforce<
+	type $mol_touch__zoom__VXKBX744 = $mol_type_enforce<
 		ReturnType< $hyoo_aura_video['zoom'] >
 		,
 		ReturnType< $mol_touch['zoom'] >
 	>
-	type $mol_touch__pan__03MGLRJU = $mol_type_enforce<
+	type $mol_touch__pan__26MEQJG6 = $mol_type_enforce<
 		ReturnType< $hyoo_aura_video['pos'] >
 		,
 		ReturnType< $mol_touch['pan'] >
